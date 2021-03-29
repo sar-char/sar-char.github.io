@@ -127,11 +127,12 @@ footer.navbar .container-fluid {
 	overflow:hidden;
 	display:block;
 	padding:15px;
+	color:#d3d3d3;
 	}
 	
 footer.navbar .container-fluid li {
 	float: left;
-	color:white;
+	color:#d3d3d3;
 	}
 
 footer.navbar .container-fluid li a {
