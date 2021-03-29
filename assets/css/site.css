@@ -21,7 +21,7 @@ header.navbar .container-fluid li {
 
 header.navbar .container-fluid li a {
 	display: inline-block;
-    color: black;
+    color: white;
     text-align: center-right;
     padding:20px;
     text-decoration: none;
@@ -39,7 +39,7 @@ div.carousel-slide .carousel-inner {
 }
 
 div.jumbotron {
-	background-color:black;
+	background-color:white;
 	margin-top:-30px;
 	margin-bottom: -5px;
 }
