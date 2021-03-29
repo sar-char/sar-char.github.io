@@ -19,7 +19,7 @@ header.navbar .container-fluid li {
 
 header.navbar .container-fluid li a {
 	display: inline-block;
-    color: white;
+    color: black;
     text-align: center-right;
     padding:20px;
     text-decoration: none;
