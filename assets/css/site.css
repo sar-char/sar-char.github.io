@@ -1,5 +1,5 @@
 body{
-	background-color:white;
+	background-color:;
 }
 
 header.navbar{
@@ -10,11 +10,13 @@ header.navbar .container-fluid {
 	list-style-type: none;
 	margin:0px;
 	padding-top:10px;
+	color:#d3d3d3;
 	}
 	
 header.navbar .container-fluid li {
 	float: left;
 	margin-left:50px;
+	color:#d3d3d3;
 	}
 
 header.navbar .container-fluid li a {
