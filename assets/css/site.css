@@ -65,11 +65,12 @@ footer.navbar .container-fluid {
 	display:block;
 	padding:15px;
 	color:#d3d3d3;
+	text-align:center-right;
 	position:absolute;
 	}
 
 
-footer.navbar .container-fluid .col-md-1 li {
+/*footer.navbar .container-fluid .col-md-1 li {
 	padding:50px;
 	text-align:center-right;
-	}
+	}*/
