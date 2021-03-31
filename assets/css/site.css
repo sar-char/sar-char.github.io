@@ -48,9 +48,9 @@ div.panel .panel-body{
 	background-color:white;
 }
 
-div.panel .panel-body .row .col-md-12 .col-md-4 {
+div.panel .panel-body .row .col-md-1 h2 {
 	text-align:center;
-	font-size:16px;
+	font-size:12px;
 	padding-bottom:18px;
 }
 
