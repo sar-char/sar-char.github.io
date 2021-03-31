@@ -59,13 +59,24 @@ div.panel .panel-body .row .col-md-1 h2 {
 /*Footer*/
 
 footer.navbar .container-fluid { 
+	font-size:12px;
+	list-style-type: none;
 	overflow:hidden;
 	display:block;
 	padding:15px;
 	color:#d3d3d3;
-	position:relative;
+	}
+	
+footer.navbar .container-fluid li {
+	float: left;
+	color:#d3d3d3;
 	}
 
+footer.navbar .container-fluid li a {
+    color: white;
+    text-align: center-right;
+	padding:10px;
+	}
 
 footer.navbar .container-fluid .col-md-1 li a {
 	padding-right:100px;
