@@ -2,34 +2,31 @@ body{
 	background-color:#d3d3d3;
 }
 
-header.navbar{
-	overflow:hidden;
+nav.navbar navbar-inverse {
+		overflow:hidden;
 }
 
-header.navbar .container-fluid { 
+nav.navbar navbar-inverse .container-fluid { 
 	list-style-type: none;
 	margin:0px;
 	padding-top:10px;
 	color:#d3d3d3;
 	}
-	
-header.navbar .container-fluid li {
+
+nav.navbar navbar-inverse .container-fluid collapse navbar-collapse{ 
 	float: left;
 	margin-left:50px;
 	color:#d3d3d3;
 	}
 
-header.navbar .container-fluid li a {
+nav.navbar navbar-inverse .container-fluid collapse navbar-collapse ul li { 
 	display: inline-block;
-    color: white;
-    text-align: center-right;
-    padding:20px;
-    text-decoration: none;
+    	color: white;
+    	text-align: center-right;
+    	padding:20px;
+    	text-decoration: none;
 	}
 
-header.navbar .container-fluid li a:hover {
-	background-color:#ff8c00;
-	}
 
 	/*Front Page*/
 	
