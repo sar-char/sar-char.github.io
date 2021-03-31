@@ -41,7 +41,7 @@ div.panel{
 div.panel .panel-heading {
 	text-align:center;
 	margin-bottom:15px;
-	margin-top:50px;
+	margin-top:25px;
 	background-color:white;
 }
 
@@ -59,18 +59,14 @@ div.panel .panel-body .row .col-md-1 h2 {
 /*Footer*/
 
 footer.navbar .container-fluid { 
-	font-size:12px;
-	list-style-type: none;
 	overflow:hidden;
 	display:block;
 	padding:15px;
 	color:#d3d3d3;
-	text-align:center-right;
-	position:absolute;
 	}
 
 
-/*footer.navbar .container-fluid .col-md-1 li {
+footer.navbar .container-fluid .col-md-1 li a {
 	padding:50px;
 	text-align:center-right;
-	}*/
+	}
