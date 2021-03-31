@@ -4,6 +4,7 @@ body{
 
 nav.navbar navbar-inverse {
 		overflow:hidden;
+		color:#d3d3d3;
 }
 
 nav.navbar navbar-inverse .container-fluid { 
