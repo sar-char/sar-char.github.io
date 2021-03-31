@@ -66,28 +66,11 @@ footer.navbar .container-fluid {
 	color:#d3d3d3;
 	position:absolute;
 	}
-	
-footer.navbar .container-fluid li {
-	float: left;
-	color:#d3d3d3;
-	}
 
-footer.navbar .container-fluid li a {
-    	color: white;
-    	text-align: center-right;
-	padding:10px;
-	}
 
 footer.navbar .container-fluid .col-md-1 li a {
     	color: white;
 	font-size: 9px;
 	padding:5px;
 	text-align: center-right;
-}
-
-footer.navbar .container-fluid .col-md-5 li {
-    	color: white;
-	font-size: 10px;
-	padding-left:5px;
-}
-
+	}
