@@ -63,8 +63,8 @@ footer.navbar .container-fluid {
 	display:block;
 	padding:15px;
 	color:#d3d3d3;
-	position:fixed;
-	height: 100px;
+	position:absolute;
+	height: 50px;
 	}
 
 
