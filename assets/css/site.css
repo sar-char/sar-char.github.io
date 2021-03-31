@@ -2,9 +2,7 @@ body{
 	background-color:#d3d3d3;
 }
 
-body{
-	background-color:#d3d3d3;
-}
+/*Navbar*/
 
 header.navbar{
 	overflow:hidden;
@@ -36,96 +34,7 @@ header.navbar .container-fluid li a:hover {
 	}
 
 
-
-	/*Front Page*/
-	
-div.carousel-slide .carousel-inner {
-	width:1350px;
-	height:400px;
-}
-
-div.jumbotron {
-	background-color:white;
-	margin-top:-30px;
-	margin-bottom: -5px;
-}
-
-div.jumbotron .container-fluid .col-md-5 .col-md-12 h2{
-	background-color:white;
-	color:black;
-	padding:25px;
-	font-size:22px;
-	/*border:yellow;
-	border-width:1px;
-	border-style:solid;*/
-	box-shadow: inset 10px 0px 0px 0px yellow;
-	text-decoration:none !important;
-	position:relative;
-	display:block;
-}
-
-div.jumbotron .container-fluid .col-md-5 .col-md-12 a:hover{
-	text-decoration:none;
-	opacity:0.9;
-}
-
-div.jumbotron .container-fluid .col-md-5 a:hover{
-	text-decoration:none;
-	opacity:0.9;
-}
-
-
-div.jumbotron .container-fluid .col-md-5 h2{
-	background-color:white;
-	color:black;
-	padding:25px;
-	font-size:22px;
-	/*border:yellow;
-	border-width:1px;
-	border-style:solid;
-	box-shadow: inset 0px 0px 0px 2px #9932cc;*/
-	box-shadow: inset 10px 0px 0px 0px yellow;
-	text-decoration:none !important;
-}
-
-div.jumbotron .container-fluid .col-md-5 .col-md-12 p{
-	background-color:white;
-	color:black;
-	font-size:13px;
-	padding:10px;
-	margin-top:-10px;
-}
-
-div.jumbotron .container-fluid .col-md-5 p{
-	background-color:white;
-	color:black;
-	font-size:13px;
-	padding:10px;
-	margin-top:-10px;
-}
-
-/*Contact us */
-
-div.panel{
-	border:0px;
-	margin-bottom:-5px;
-}
-
-div.panel .panel-heading {
-	text-align:center;
-	margin-bottom: 25px;
-	background-color:white;
-}
-
-div.panel .panel-body{
-	background-color:white;
-}
-
-div.panel .panel-body .row .col-md-12 .col-md-4 {
-	text-align:center;
-	font-size:16px;
-	padding-bottom:18px;
-}
+/*Footer*/
 
 footer.navbar .container-fluid { 
 	font-size:12px;
@@ -147,17 +56,4 @@ footer.navbar .container-fluid li a {
     	text-align: center-right;
 	padding:10px;
 	}
-
-footer.navbar .container-fluid .col-md-12 li {
-    	color: white;
-	font-size: 9px;
-	padding:5px;
-}
-
-footer.navbar .container-fluid .col-md-5 li {
-    color: white;
-	font-size: 10px;
-	padding-left:5px;
-}
-
 
