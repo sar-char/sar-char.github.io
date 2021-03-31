@@ -68,13 +68,13 @@ footer.navbar .container-fluid {
 	}
 	
 footer.navbar .container-fluid li {
-	float: left;
+	float: center-right;
 	color:#d3d3d3;
 	}
 
 footer.navbar .container-fluid li a {
     	color: white;
-    	text-align: center-right;
+    	float: center-right;
 	padding:10px;
 	}
 
