@@ -67,6 +67,6 @@ footer.navbar .container-fluid {
 
 
 footer.navbar .container-fluid .col-md-1 li a {
-	padding-right:50px;
-	float: right;
+	padding-right:100px;
+	float: center;
 	}
