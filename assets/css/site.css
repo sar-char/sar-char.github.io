@@ -13,20 +13,6 @@ nav.navbar navbar-inverse .container-fluid {
 	color:#d3d3d3;
 	}
 
-nav.navbar navbar-inverse .container-fluid collapse navbar-collapse{ 
-	float: left;
-	margin-left:50px;
-	color:#d3d3d3;
-	}
-
-nav.navbar navbar-inverse .container-fluid collapse navbar-collapse ul li { 
-	display: inline-block;
-    	color: white;
-    	text-align: center-right;
-    	padding:20px;
-    	text-decoration: none;
-	}
-
 
 	/*Front Page*/
 	
