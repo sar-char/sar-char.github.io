@@ -40,7 +40,8 @@ div.panel{
 
 div.panel .panel-heading {
 	text-align:center;
-	margin-bottom: 100px;
+	margin-bottom:15px;
+	margin-top:25px;
 	background-color:white;
 }
 
