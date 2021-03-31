@@ -35,12 +35,12 @@ header.navbar .container-fluid li a:hover {
 
 div.panel{
 	border:0px;
-	margin-bottom:-100px;
+	margin-bottom:-5px;
 }
 
 div.panel .panel-heading {
 	text-align:center;
-	margin-bottom:15px;
+	margin-bottom: 25px;
 	background-color:white;
 }
 
@@ -48,9 +48,9 @@ div.panel .panel-body{
 	background-color:white;
 }
 
-div.panel .panel-body .row .col-md-1 h2 {
+div.panel .panel-body .row .col-md-12 .col-md-4 {
 	text-align:center;
-	font-size:12px;
+	font-size:16px;
 	padding-bottom:18px;
 }
 
@@ -64,6 +64,7 @@ footer.navbar .container-fluid {
 	display:block;
 	padding:15px;
 	color:#d3d3d3;
+	position:absolute;
 	}
 	
 footer.navbar .container-fluid li {
@@ -72,12 +73,19 @@ footer.navbar .container-fluid li {
 	}
 
 footer.navbar .container-fluid li a {
-    color: white;
-    text-align: center-right;
+    	color: white;
+    	text-align: center-right;
 	padding:10px;
 	}
 
-/*footer.navbar .container-fluid .col-md-1 li a {
-	padding-right:100px;
-	float: center;
-	}*/
+footer.navbar .container-fluid .col-md-2 li {
+    	color: white;
+	font-size: 9px;
+	padding:5px;
+}
+
+footer.navbar .container-fluid .col-md-5 li {
+    	color: white;
+	font-size: 10px;
+	padding-left:5px;
+}
