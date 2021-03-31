@@ -2,17 +2,39 @@ body{
 	background-color:#d3d3d3;
 }
 
-nav.navbar {
-		overflow:hidden;
-		color:#d3d3d3;
+body{
+	background-color:#d3d3d3;
 }
 
-nav.navbar navbar-inverse .container-fluid { 
+header.navbar{
+	overflow:hidden;
+}
+
+header.navbar .container-fluid { 
 	list-style-type: none;
 	margin:0px;
 	padding-top:10px;
 	color:#d3d3d3;
 	}
+	
+header.navbar .container-fluid li {
+	float: left;
+	margin-left:50px;
+	color:#d3d3d3;
+	}
+
+header.navbar .container-fluid li a {
+	display: inline-block;
+    	color: white;
+    	text-align: center-right;
+    	padding:20px;
+    	text-decoration: none;
+	}
+
+header.navbar .container-fluid li a:hover {
+	background-color:#e8e3e3;
+	}
+
 
 
 	/*Front Page*/
@@ -112,6 +134,7 @@ footer.navbar .container-fluid {
 	display:block;
 	padding:15px;
 	color:#d3d3d3;
+	position:absolute;
 	}
 	
 footer.navbar .container-fluid li {
@@ -120,13 +143,13 @@ footer.navbar .container-fluid li {
 	}
 
 footer.navbar .container-fluid li a {
-    color: white;
-    text-align: center-right;
+    	color: white;
+    	text-align: center-right;
 	padding:10px;
 	}
 
 footer.navbar .container-fluid .col-md-12 li {
-    color: white;
+    	color: white;
 	font-size: 9px;
 	padding:5px;
 }
