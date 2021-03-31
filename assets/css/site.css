@@ -69,8 +69,6 @@ footer.navbar .container-fluid {
 
 
 footer.navbar .container-fluid .col-md-1 li {
-    	color: white;
-	font-size: 9px;
-	padding:100px;
-	text-align:center;
+	padding:50px;
+	text-align:center-right;
 	}
