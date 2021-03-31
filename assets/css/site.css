@@ -78,7 +78,7 @@ footer.navbar .container-fluid li a {
 	padding:10px;
 	}
 
-footer.navbar .container-fluid .col-md-1 li {
+footer.navbar .container-fluid .col-md-1 li a {
     	color: white;
 	font-size: 9px;
 	padding:5px;
